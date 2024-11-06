@@ -1,6 +1,6 @@
-name: Build Writerside docs using Docker
+name: Build Writerside docs PDF
 description: Build Writerside documentation artifacts
-author: writerside <writerside@jetbrains.com>
+author: andrei.ezerskii <andrei.ezerskii@jetbrains.com>
 branding:
     icon: book-open
     color: purple
